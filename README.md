@@ -48,7 +48,7 @@ We chose this problem because of the increasing need for accessible technologies
 - ✅ *News Summaries* – Summarize the latest news articles for the user
 
 ## 📽 Demo & Deliverables
-- *Demo Video Link:* [YouTube link here]
+- *Demo Video Link:* https://youtu.be/29jkdpDs13U
 - *Pitch Deck / PPT Link:* https://docs.google.com/presentation/d/1pce8evYIIw8Pp1EyvpWjxUdI91ngnJCq/edit?usp=drive_link&ouid=111047759278957664626&rtpof=true&sd=true
 
 ## ✅ Tasks & Bonus Checklist
