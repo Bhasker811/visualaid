@@ -13,7 +13,7 @@ if not api_key:
 client = Groq(api_key=api_key)
 
 # === Generate Greeting Speech ===
-speech_text = "Hello, I am VisualAid,your all in one ai assistant.i can summarize emails.automate whatsapp messaging much more.Cheers"
+speech_text = "Hello, I am VisualAid,your all in one ai assistant."
 model = "playai-tts"
 voice = "Fritz-PlayAI"
 response_format = "mp3"  # Change to mp3
