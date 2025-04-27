@@ -2,8 +2,7 @@
 # 🚀 Visual Aid: Voice Assistant for the Visually Impaired
 
 ## 📌 Problem Statement
-*Problem Statement 1* – Creating a Web-based Application for Visually Impaired People
-
+*Problem Statement 1* –Weave AI magic with Groq
 ## 🎯 Objective
 The *Visual Aid* project aims to provide a voice-controlled web application that helps visually impaired individuals perform common tasks like:
 - Making WhatsApp calls, sending messages, and video calling
