@@ -1,0 +1,13 @@
+requests
+python-dotenv
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+SpeechRecognition
+gTTS
+playsound
+pyttsx3
+opencv-python
+Pillow
+groq
