@@ -1,4 +1,4 @@
-# visualaid
+# VISUAL AID
 # 🚀 Visual Aid: Voice Assistant for the Visually Impaired
 
 ## 📌 Problem Statement
